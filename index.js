@@ -1,1 +1,1 @@
-export const speak = (words = 'hello world') => words;
+export const hello = (words = 'hello world') => words;
